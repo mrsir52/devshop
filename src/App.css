@@ -11,5 +11,10 @@
   background-size: cover;
   background-position: center;
   height: 100vh;
-
+  
 }
+
+.nav-link {
+  padding: 0;
+}
+
